@@ -11,5 +11,11 @@
         margin-right: 10px;
         padding: 10px;
         border-bottom: 1px solid lightgrey;
+        .checkout__title {
+            color: #131921;
+            text-align: center;
+            border-left: 7px solid #f0cc55;
+            border-right: 7px solid #f0cc55;
+        }
     }
 }
