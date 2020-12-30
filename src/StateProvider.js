@@ -4,8 +4,7 @@ import React, {createContext, useContext, useReducer} from "react";
 export const StateContext = createContext();
 
 //Envuelve la app y provee el Data layer
-export const StateProvider =({ reducer,
-initialState, children})=>(
+export const StateProvider =({ reducer,initialState, children})=>(
     <StateContext.Provider value={useReducer(reducer, initialState)}>
         {children}
     </StateContext.Provider>
