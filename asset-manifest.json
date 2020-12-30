@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/HarryDame/amazon-clone/static/css/main.8d33662d.chunk.css",
-    "main.js": "/HarryDame/amazon-clone/static/js/main.383bf4d6.chunk.js",
-    "main.js.map": "/HarryDame/amazon-clone/static/js/main.383bf4d6.chunk.js.map",
-    "runtime-main.js": "/HarryDame/amazon-clone/static/js/runtime-main.e778b311.js",
-    "runtime-main.js.map": "/HarryDame/amazon-clone/static/js/runtime-main.e778b311.js.map",
-    "static/js/2.32b87d83.chunk.js": "/HarryDame/amazon-clone/static/js/2.32b87d83.chunk.js",
-    "static/js/2.32b87d83.chunk.js.map": "/HarryDame/amazon-clone/static/js/2.32b87d83.chunk.js.map",
-    "static/js/3.4cf1046d.chunk.js": "/HarryDame/amazon-clone/static/js/3.4cf1046d.chunk.js",
-    "static/js/3.4cf1046d.chunk.js.map": "/HarryDame/amazon-clone/static/js/3.4cf1046d.chunk.js.map",
-    "index.html": "/HarryDame/amazon-clone/index.html",
-    "static/css/main.8d33662d.chunk.css.map": "/HarryDame/amazon-clone/static/css/main.8d33662d.chunk.css.map",
-    "static/js/2.32b87d83.chunk.js.LICENSE.txt": "/HarryDame/amazon-clone/static/js/2.32b87d83.chunk.js.LICENSE.txt"
+    "main.css": "/amazon-clone/static/css/main.8d33662d.chunk.css",
+    "main.js": "/amazon-clone/static/js/main.383bf4d6.chunk.js",
+    "main.js.map": "/amazon-clone/static/js/main.383bf4d6.chunk.js.map",
+    "runtime-main.js": "/amazon-clone/static/js/runtime-main.a4ee405d.js",
+    "runtime-main.js.map": "/amazon-clone/static/js/runtime-main.a4ee405d.js.map",
+    "static/js/2.3c0a8f30.chunk.js": "/amazon-clone/static/js/2.3c0a8f30.chunk.js",
+    "static/js/2.3c0a8f30.chunk.js.map": "/amazon-clone/static/js/2.3c0a8f30.chunk.js.map",
+    "static/js/3.4cf1046d.chunk.js": "/amazon-clone/static/js/3.4cf1046d.chunk.js",
+    "static/js/3.4cf1046d.chunk.js.map": "/amazon-clone/static/js/3.4cf1046d.chunk.js.map",
+    "index.html": "/amazon-clone/index.html",
+    "static/css/main.8d33662d.chunk.css.map": "/amazon-clone/static/css/main.8d33662d.chunk.css.map",
+    "static/js/2.3c0a8f30.chunk.js.LICENSE.txt": "/amazon-clone/static/js/2.3c0a8f30.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e778b311.js",
-    "static/js/2.32b87d83.chunk.js",
+    "static/js/runtime-main.a4ee405d.js",
+    "static/js/2.3c0a8f30.chunk.js",
     "static/css/main.8d33662d.chunk.css",
     "static/js/main.383bf4d6.chunk.js"
   ]
