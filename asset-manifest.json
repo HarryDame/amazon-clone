@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HarryDame/amazon-clonestatic/css/main.8d33662d.chunk.css",
+    "main.js": "/HarryDame/amazon-clonestatic/js/main.383bf4d6.chunk.js",
+    "main.js.map": "/HarryDame/amazon-clonestatic/js/main.383bf4d6.chunk.js.map",
+    "runtime-main.js": "/HarryDame/amazon-clonestatic/js/runtime-main.bf98de7d.js",
+    "runtime-main.js.map": "/HarryDame/amazon-clonestatic/js/runtime-main.bf98de7d.js.map",
+    "static/js/2.209b4232.chunk.js": "/HarryDame/amazon-clonestatic/js/2.209b4232.chunk.js",
+    "static/js/2.209b4232.chunk.js.map": "/HarryDame/amazon-clonestatic/js/2.209b4232.chunk.js.map",
+    "static/js/3.4cf1046d.chunk.js": "/HarryDame/amazon-clonestatic/js/3.4cf1046d.chunk.js",
+    "static/js/3.4cf1046d.chunk.js.map": "/HarryDame/amazon-clonestatic/js/3.4cf1046d.chunk.js.map",
+    "index.html": "/HarryDame/amazon-cloneindex.html",
+    "static/css/main.8d33662d.chunk.css.map": "/HarryDame/amazon-clonestatic/css/main.8d33662d.chunk.css.map",
+    "static/js/2.209b4232.chunk.js.LICENSE.txt": "/HarryDame/amazon-clonestatic/js/2.209b4232.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf98de7d.js",
+    "static/js/2.209b4232.chunk.js",
+    "static/css/main.8d33662d.chunk.css",
+    "static/js/main.383bf4d6.chunk.js"
+  ]
+}
